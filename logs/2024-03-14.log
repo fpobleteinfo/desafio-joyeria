@@ -1,0 +1,8 @@
+
+Started GET /joyas/?order_by=id_asc&limit=3&page=0 for :: ::ffff:127.0.0.1 at Wed Mar 13 2024 21:10:39 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 44 ms Request ID: [a58e7493-3be2-4c89-97d5-495ec85df866]
+
+Started GET /joyas/filtros?categoria=collar for :: ::ffff:127.0.0.1 at Wed Mar 13 2024 21:10:48 GMT-0300 (Chile Summer Time)
+  Parameters in body: {}
+Completed: 200 message:  Time response: 8 ms Request ID: [10dfc34c-b985-4eb2-9951-7b812cc2ac92]
